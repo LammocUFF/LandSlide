@@ -1,4 +1,4 @@
 # LandSlide
 
-\item Code for Landslide monitoring system
-\item 3D models 
+*Code for Landslide monitoring system
+*3D models 
